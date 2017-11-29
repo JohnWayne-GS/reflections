@@ -7,7 +7,10 @@ Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 
 
+	it gives you a message which files are staged, unstaged, and untracked
+
 What value do you think it offers?
+	Avoid mistakes, always good overview
 
 
 
